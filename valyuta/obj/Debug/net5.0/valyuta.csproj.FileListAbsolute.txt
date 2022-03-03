@@ -1,0 +1,16 @@
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\bin\Debug\net5.0\valyuta.exe
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\bin\Debug\net5.0\valyuta.deps.json
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\bin\Debug\net5.0\valyuta.runtimeconfig.json
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\bin\Debug\net5.0\valyuta.runtimeconfig.dev.json
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\bin\Debug\net5.0\valyuta.dll
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\bin\Debug\net5.0\valyuta.pdb
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\obj\Debug\net5.0\valyuta.csproj.AssemblyReference.cache
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\obj\Debug\net5.0\valyuta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\obj\Debug\net5.0\valyuta.AssemblyInfoInputs.cache
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\obj\Debug\net5.0\valyuta.AssemblyInfo.cs
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\obj\Debug\net5.0\valyuta.csproj.CoreCompileInputs.cache
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\obj\Debug\net5.0\valyuta.dll
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\obj\Debug\net5.0\refint\valyuta.dll
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\obj\Debug\net5.0\valyuta.pdb
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\obj\Debug\net5.0\valyuta.genruntimeconfig.cache
+C:\Users\Clean__Laptop\Desktop\valyuta\valyuta\obj\Debug\net5.0\ref\valyuta.dll
